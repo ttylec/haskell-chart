@@ -26,6 +26,7 @@ import Data.List (unfoldr)
 import Data.Monoid
 
 import Control.Lens(makeLenses)
+import Control.Monad
 import Control.Monad.Reader
 import Control.Monad.Operational
 
